@@ -1,0 +1,20 @@
+{
+  "name": "Mattia Astorino",
+  "shortDesc": "UX Engineer in Milan and member of Open Source Design.",
+  "url": "https://equinusocio.dev",
+  "lang": "en",
+  "authorHandle": "@equinusocio",
+  "authorName": "Mattia Astorino",
+  "paymentPointer": "$twitter.xrptipbot.com/equinusocio",
+  "syntaxTheme": "prism-mono.css",
+  "permalinkClass": ["Permalink"],
+  "iframeClass": ["IframesWrapper", "Bleeding"],
+  "codeClass": ["CodeWrapper", "Bleeding"],
+  "figureClass": ["Figure", "Bleeding"],
+  "paths": {
+    "src": "src",
+    "blogdir": "blog",
+    "includes": "components",
+    "output": "dist"
+  }
+}
